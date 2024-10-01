@@ -1,0 +1,46 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+	<link rel="stylesheet" href="mystylesheet2.css" />
+<script src="myjavascript2.js" type="text/javascript"></script>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>Revana Homepage</title> 
+
+<style>
+
+body {
+	background-image: url();
+	background-color: #F1BF8B;
+	color: #000;
+}
+.body {
+	color: #000;
+}
+.navigation {
+	color: #FFF;
+}
+</style>
+</head>
+
+<body>
+<table border="0" align="center">
+  <tr>
+    <th width="1420"height="252" bgcolor="#F1BF8B" scope="col"><img src="Images/revana video banner.gif" width="1540" height="650" alt=""/></th>
+  </tr>
+  <tr bgcolor="#010101">
+  <td height="78" align="center" class="navigation"><p>Navigation</p>
+	</tr>
+  <tr bgcolor="#010101">
+    <td height="78" align="center" bgcolor="#F1BF8B"><img src="Images/new advert banner img (1540 x 250 px).gif" width="1540" height="250" alt=""/></tr>
+  <tr>
+    <td align="center" bgcolor="#FFFFFF"><p>&nbsp;</p>
+      <p><img src="Images/homepage body.png" width="1540" height="1080" alt=""/></p>
+      <p>&nbsp;</p>
+	  </td>
+  </tr>
+  <tr>
+    <td align="center" bgcolor="#F1BF8B"><img src="../../../../Downloads/Contact.png" width="1540" height="250" alt=""/></td>
+  </tr>
+</table>
+</body>
+</html>
